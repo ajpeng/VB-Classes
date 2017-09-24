@@ -24,4 +24,7 @@
         Return astrWords(0)
     End Function
 
+    Public Sub New(ByVal Value As String)
+        mstrLine = Value
+    End Sub
 End Class

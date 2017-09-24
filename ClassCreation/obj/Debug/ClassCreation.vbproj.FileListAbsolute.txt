@@ -1,1 +1,11 @@
 c:\users\alex-acerpc\documents\visual studio 2015\Projects\ClassCreation\ClassCreation\bin\Debug\ClassCreation.exe.config
+C:\Users\alex-acerpc\Documents\Visual Studio 2015\Projects\ClassCreation\ClassCreation\bin\Debug\ClassCreation.exe
+C:\Users\alex-acerpc\Documents\Visual Studio 2015\Projects\ClassCreation\ClassCreation\bin\Debug\ClassCreation.pdb
+C:\Users\alex-acerpc\Documents\Visual Studio 2015\Projects\ClassCreation\ClassCreation\bin\Debug\ClassCreation.xml
+C:\Users\alex-acerpc\Documents\Visual Studio 2015\Projects\ClassCreation\ClassCreation\obj\Debug\ClassCreation.vbprojResolveAssemblyReference.cache
+C:\Users\alex-acerpc\Documents\Visual Studio 2015\Projects\ClassCreation\ClassCreation\obj\Debug\ClassCreation.frmLineTest.resources
+C:\Users\alex-acerpc\Documents\Visual Studio 2015\Projects\ClassCreation\ClassCreation\obj\Debug\ClassCreation.Resources.resources
+C:\Users\alex-acerpc\Documents\Visual Studio 2015\Projects\ClassCreation\ClassCreation\obj\Debug\ClassCreation.vbproj.GenerateResource.Cache
+C:\Users\alex-acerpc\Documents\Visual Studio 2015\Projects\ClassCreation\ClassCreation\obj\Debug\ClassCreation.exe
+C:\Users\alex-acerpc\Documents\Visual Studio 2015\Projects\ClassCreation\ClassCreation\obj\Debug\ClassCreation.xml
+C:\Users\alex-acerpc\Documents\Visual Studio 2015\Projects\ClassCreation\ClassCreation\obj\Debug\ClassCreation.pdb
